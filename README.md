@@ -6,7 +6,6 @@
 2. Recognize that "arrays of arrays" are grids or coordinate systems
 3. Create a nested `Array`
 4. Read scalar data from an array of arrays
-5. Modify scalar data in an array of arrays
 
 ## Introduction
 
